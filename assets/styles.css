@@ -1,7 +1,7 @@
 /* General Reset */
 body, h1, h2, h3, h4, h5, h6, p, ul, ol {
     margin: 15px 20px;
-    padding: 15px;
+    padding: 0px;
 }
 
 body {
@@ -10,14 +10,14 @@ body {
     color: #333;
     background-color: #f9f9f9;
     margin: 15px 20px;
-    padding: 15px;
+    padding: 0px;
 }
 
 /* Container */
 .container {
     max-width: 900px;
     margin: 20px auto;
-    padding: 20px;
+    padding: 0px;
     background: #fff;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
