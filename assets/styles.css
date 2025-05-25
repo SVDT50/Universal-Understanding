@@ -84,6 +84,13 @@ article h2 a:hover {
     color: #007acc;
 }
 
+article h3 {
+    font-size: 1.4rem;
+    color: #666;
+    margin-top: -10px;
+    margin-bottom: 20px;
+}
+
 article p {
     font-size: 1.1rem;
     margin-bottom: 15px;
