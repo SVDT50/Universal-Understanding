@@ -67,28 +67,27 @@ article {
     padding-bottom: 20px;
 }
 
-article h2 {
-    font-size: 2rem;
+article h1 {
+    font-size: 2.5rem;
     margin-bottom: 10px;
     color: #111;
     font-weight: bold;
 }
 
-article h2 a {
-    text-decoration: none;
-    color: inherit;
-    transition: color 0.3s;
-}
-
-article h2 a:hover {
-    color: #007acc;
+article h2 {
+    font-size: 1.8rem;
+    color: #444;
+    margin-top: -10px;
+    margin-bottom: 20px;
+    font-weight: normal;
 }
 
 article h3 {
-    font-size: 1.4rem;
-    color: #666;
-    margin-top: -10px;
-    margin-bottom: 20px;
+    font-size: 1.5rem;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    color: #222;
+    font-weight: bold;
 }
 
 article p {
